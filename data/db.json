@@ -1,0 +1,84 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veg Stew",
+      "cookingTime": "45 minutes",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "500g Tofu",
+        "500ml Veg stock",
+        "2 Potatoes"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, sed rerum quisquam autem amet debitis illum fugit cumque dignissimos enim ipsam ducimus distinctio deleniti voluptate, officia omnis, vel excepturi fuga?"
+    },
+    {
+      "id": "2",
+      "title": "Veg Curry",
+      "cookingTime": "35 minutes",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "500g Tofu",
+        "500ml Korma Sauce",
+        "2 Potatoes"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, sed rerum quisquam autem amet debitis illum fugit cumque dignissimos enim ipsam ducimus distinctio deleniti voluptate, officia omnis, vel excepturi fuga?"
+    },
+    {
+      "id": "3",
+      "title": "Veg Lasagne",
+      "cookingTime": "60 minutes",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "500g Mushrooms",
+        "250ml Veg stock",
+        "Gluten Free Lasagne Sheets",
+        "500ml Lasagne Sauce"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, sed rerum quisquam autem amet debitis illum fugit cumque dignissimos enim ipsam ducimus distinctio deleniti voluptate, officia omnis, vel excepturi fuga?"
+    },
+    {
+      "id": "4",
+      "title": "Veg Stew",
+      "cookingTime": "45 minutes",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "500g Tofu",
+        "500ml Veg stock",
+        "2 Potatoes"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, sed rerum quisquam autem amet debitis illum fugit cumque dignissimos enim ipsam ducimus distinctio deleniti voluptate, officia omnis, vel excepturi fuga?"
+    },
+    {
+      "id": "5",
+      "title": "Veg Curry",
+      "cookingTime": "35 minutes",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "500g Tofu",
+        "500ml Korma Sauce",
+        "2 Potatoes"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, sed rerum quisquam autem amet debitis illum fugit cumque dignissimos enim ipsam ducimus distinctio deleniti voluptate, officia omnis, vel excepturi fuga?"
+    },
+    {
+      "id": "6",
+      "title": "Veg Lasagne",
+      "cookingTime": "60 minutes",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "500g Mushrooms",
+        "250ml Veg stock",
+        "Gluten Free Lasagne Sheets",
+        "500ml Lasagne Sauce"
+      ],
+      "method": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, sed rerum quisquam autem amet debitis illum fugit cumque dignissimos enim ipsam ducimus distinctio deleniti voluptate, officia omnis, vel excepturi fuga?"
+    }
+  ]
+}
